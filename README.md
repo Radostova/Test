@@ -1,2 +1,2 @@
 # Test
-K učení základních funkcí gitHub
+K učení základních funkcí 
